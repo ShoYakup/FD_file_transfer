@@ -1,6 +1,6 @@
 # Mobile File Manager
 
-## [Watch it on YouTube](https://youtu.be/0ypIiHqJ1RU)
+## Written with GetX
 
 ### Home & Cloud Screen
 
