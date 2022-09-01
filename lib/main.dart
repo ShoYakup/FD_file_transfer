@@ -21,18 +21,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-sefnsd
-
-
-
-sfsdfkjaeflxsagzdfdjsgc GElementssgjdgs
-ss
-ssjf,FESpotLightElementsjgsisdgnSJFLSGJSDXCV
-ScriptElementSGNMFSKZDS EGSUJRGNSRGKJZDNFSS SpeechGrammarSGSSLKSGLJSGLKJSGDFJSEK sgsslksgljsglkjsgdfjsekSSAS
-SvgSvgElementSRA DFSDSSA AppPagesS
-
-git add .
-git commit -m '.'
-git push origin main
