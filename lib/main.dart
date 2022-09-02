@@ -25,9 +25,7 @@ class MyApp extends StatelessWidget {
 
 
 
-git add .
-git commit -m '.'
-git push origin main
+fjsglsvndj
 
 
 
