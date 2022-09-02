@@ -21,25 +21,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
-
-fjsglsvndjkfdgsrssf sdgjaefzjvsgz
-sakjefgz fafafashfsgSKGSJDSRRGSGDV SRGJSSSDG SFH
-SGSGSGHDGW DJS EXGJFXCSW GSGJHSJSGSKDGSDG VRStageBoundsSDGVJEFS
-
-
-FNSEFSFZF SearchDelegateDFNjxfx dfaf
-snsfdf serf
-AnimatedAlignfsfjzdjdfzdfnzxv sdvhsdg sfgsfjdgage xvsdgs
-sdfsjfssvsdsg
-
-sefjzdfbhsdfg
-
-
-
-
-
-
-
