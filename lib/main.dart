@@ -21,15 +21,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
-
-
-fjsdgslksdgshjfksjsgasdksdgjskdfjnsdgsisgx jjnsdgffaidgsgansfbxbxb jrgsskrehnsegsjukgtsrgkjhsdfkjsgfgjsefhsakegfkjsegsiug
-
-
-git add .
-git commit -m '.'dsbfekjsaefh
-
-jsfhsalu
